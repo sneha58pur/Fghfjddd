@@ -1,0 +1,13 @@
+
+<resources>
+<!-- Other string resources -->
+
+<!-- Divisions array -->
+<string-array name="divisions_array">
+    <item>Sylhet</item>
+    <item>Dhaka</item>
+    <item>Khulna</item>
+    <item>Chittogram</item>
+
+</string-array>
+</resources>
